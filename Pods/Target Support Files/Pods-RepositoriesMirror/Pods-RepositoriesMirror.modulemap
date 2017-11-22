@@ -1,0 +1,6 @@
+framework module Pods_RepositoriesMirror {
+  umbrella header "Pods-RepositoriesMirror-umbrella.h"
+
+  export *
+  module * { export * }
+}
